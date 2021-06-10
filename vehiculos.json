@@ -1,0 +1,38 @@
+{
+    "__class__": "Lista",
+    "vehiculos": [
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "modelo": "Prisma",
+                "puertas": 5,
+                "color": "negro",
+                "precioBase": 1000000.0,
+                "marca": "Chevrolet",
+                "patente": "CCC-222",
+                "anio": 2017,
+                "Km": 85000
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Clase C 1.8 C200 ",
+                "puertas": 4,
+                "color": "azul",
+                "precioBase": 850000.0,
+                "version": "full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Clase GLA 1.6",
+                "puertas": 5,
+                "color": "blanco",
+                "precioBase": 5000000.0,
+                "version": "base"
+            }
+        }
+    ]
+}
